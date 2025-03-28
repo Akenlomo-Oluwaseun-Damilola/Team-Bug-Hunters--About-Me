@@ -1,0 +1,1 @@
+{"uuid":"1d7840ff-af58-4bbc-8676-4a85286ceb31","name":"kongaProject2","children":["c264ba24-f591-4bd1-b3a1-79f4252418fb"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1743143165902,"stop":1743143169875}],"start":1743143139221,"stop":1743143169875}
